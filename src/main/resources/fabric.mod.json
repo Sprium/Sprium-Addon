@@ -4,13 +4,11 @@
   "version": "${version}",
   "name": "Sprium Addon",
   "description": "Spri's addon to add on whats needed to be add on.",
-  "authors": [
-    "Spri"
-  ],
+  "authors": ["Spri"],
   "contact": {
-    "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "repo": "https://github.com/Sprium/sprium-addon"
   },
-  "icon": "assets/template/icon.png",
+  "icon": "assets/icon.jpg",
   "environment": "client",
   "entrypoints": {
     "meteor": [

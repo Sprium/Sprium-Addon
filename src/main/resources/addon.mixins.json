@@ -2,14 +2,13 @@
   "required": true,
   "package": "me.spri.addon.mixin",
   "compatibilityLevel": "JAVA_17",
-  "client": [
-    "ChangeTeamColorMixin"
-  ],
+  "client": [],
   "injectors": {
     "defaultRequire": 1
   },
   "mixins": [
     "DemoCancelerMixin",
-    "GlowRenderMixin"
+    "GlowRenderMixin",
+    "ChangeTeamColorMixin"
   ]
 }
